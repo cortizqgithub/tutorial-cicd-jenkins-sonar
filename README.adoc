@@ -1,0 +1,8 @@
+= tutorial-cicd-jenkins-sonar README
+
+20201006-V2020.1.0
+
+Tutorial code to learn.
+. Docker
+. Jenkins
+. SonarQube
